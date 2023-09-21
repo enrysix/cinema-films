@@ -24,6 +24,10 @@ body {
   border: 1px solid white;
 }
 
+.body-content {
+  margin: 24px;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
